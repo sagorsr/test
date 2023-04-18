@@ -1,0 +1,33 @@
+.bgc{
+    background-color: #e4e4ec;
+}
+.btn-bg{
+    background: #8392ff;
+}
+
+.counter-section{
+    background: #8490ff;
+}
+p.fs {
+    font-size: 11px;
+}
+
+.button{
+    background-color: #ddd;
+    border: #ddd;
+    padding: 5px 13px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 6px rgb(177, 169, 169);
+}
+
+.bgc2{
+    background-color: aliceblue;
+}
+
+.position-absolute{
+    top: -50px;
+    left: 20px;
+}
+.btn{
+    
+}
